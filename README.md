@@ -1,11 +1,10 @@
-## Hi there 👋
-# Hi, I'm Misael Lazaro 👋
+# Hello there, I'm Misael Lazaro 👋
 
 ### Bioinformatics • Machine Learning • Research Software Engineering
 
 I'm a computational biologist and software-focused researcher who builds reproducible tools for genomics, structural biology, and machine learning. My background combines **biochemistry**, **computer science**, and **high-performance computing**, which allows me to move comfortably between biological questions, scalable data workflows, and production-quality scientific software.
 
-I am currently completing an **M.S. in Computer Science at the University of Illinois Urbana-Champaign** and have prior graduate training in **Biochemistry**. I enjoy building tools that help scientists analyze complex biological data, interpret results, and make research workflows easier to reproduce and scale.
+I am currently completing an **M.S. in Computer Science at the University of Illinois Urbana-Champaign** and have completed an M.S degree in **Biochemistry**. I have about three years of experience in research and industry work where I have enjoyed building tools that help scientists analyze complex biological data, interpret results, and make research workflows easier to reproduce and scale.
 
 ---
 
