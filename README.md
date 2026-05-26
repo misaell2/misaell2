@@ -131,15 +131,6 @@ I am most excited about roles in **bioinformatics**, **computational biology**, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misaell2&show_icons=true&hide_border=true" alt="Misael's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaell2&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - GitHub: [github.com/misaell2](https://github.com/misaell2)
