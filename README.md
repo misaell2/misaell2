@@ -74,7 +74,7 @@ Re-implemented and validated comparative single-cell RNA-seq workflows with an e
 
 ### 2. Structural Biology + Protein-Ligand Analysis Workflows
 
-<img src="assets/protein_figure.png" alt="Protein-ligand analysis workflow preview" width="700"/>
+<img src="assets/proteins_figure.png" alt="Protein-ligand analysis workflow preview" width="700"/>
 
 Developed Python-based workflows for structural and functional protein-ligand analysis, including conserved binding residue identification and large-scale experimentation on HPC systems.
 
