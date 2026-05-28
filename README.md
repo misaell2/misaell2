@@ -89,7 +89,7 @@ Developed Python-based workflows for structural and functional protein-ligand an
 
 ### 3. Machine Learning for Healthcare / ECG Classification
 
-<img src="assets/ecg-ml-preview.png" alt="ECG machine learning project preview" width="700"/>
+<img src="assets/ECG_project_results.png" alt="ECG machine learning project preview" width="700"/>
 
 Built machine learning workflows for biomedical data, including multi-label ECG classification and healthcare-focused model development.
 
