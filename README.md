@@ -105,8 +105,6 @@ Built machine learning workflows for biomedical data, including multi-label ECG 
 
 ### 4. Cloud + ML Data Pipelines
 
-<img src="assets/cloud-ml-pipeline-preview.png" alt="Cloud machine learning pipeline preview" width="700"/>
-
 Designed cloud-based data and machine learning workflows using AWS services, with emphasis on scalable processing, automation, monitoring, and reproducible deployment.
 
 **Highlights**
