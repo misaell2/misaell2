@@ -69,20 +69,9 @@ Built reproducible cloud-based bioinformatics and machine learning workflows for
 
 **Tech:** `AWS EC2` `AWS S3` `IAM` `Docker` `Python` `Scanpy` `Squidpy` `spatial transcriptomics` `machine learning` `data engineering` `bioinformatics pipelines`
 
-[View Repository](### 1. SpatialAINiche overview
-
 <img src="assets/overview.png" alt="Single-cell RNA-seq benchmarking project preview" width="700"/>
 
-Re-implemented and validated comparative single-cell RNA-seq workflows with an emphasis on reproducibility, modular design, and fair method comparison.
-
-**Highlights**
-- Built modular workflows for comparing analysis methods
-- Focused on reproducibility and validation of published results
-- Connected computational outputs back to biological interpretation
-
-**Tech:** `R` `Python` `single-cell RNA-seq` `benchmarking` `reproducible research`
-
-[View Repository](https://github.com/misaell2/Replicate_of_comparison_of_single_cell_RNA_seq_methods)
+[View Repository](https://github.com/misaell2/Spatial_Breast_Cancer_AI_project)
 
 
 ---
