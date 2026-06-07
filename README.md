@@ -55,9 +55,25 @@ I am especially interested in roles where I can contribute to:
 
 ## 🚀 Featured Projects
 
-### 1. Single-Cell RNA-seq Benchmarking Replication
+### 1. Cloud + ML Bioinformatics Pipelines
+
+Built reproducible cloud-based bioinformatics and machine learning workflows for spatial transcriptomics analysis, using Docker, AWS EC2, S3, Python, Scanpy, and Squidpy. Designed the workflow to move from local development to cloud execution while preserving reproducibility, organized outputs, trained models, logs, and processed data.
+
+**Highlights**
+- Dockerized an end-to-end 10x Visium breast cancer spatial transcriptomics workflow
+- Ran the pipeline on AWS EC2 with S3-backed input/output storage and IAM-based access
+- Built supervised ML workflows to classify biologically annotated spatial tumor microenvironment niches
+- Compared five ML models across expression-derived, marker-signature, QC, spatial-coordinate, and neighbor-context features
+- Implemented spatial holdout validation using a 3 × 3 tissue grid to test model robustness beyond random train/test splits
+- Documented cloud execution with an EC2/S3 runbook for reproducible deployment
+
+**Tech:** `AWS EC2` `AWS S3` `IAM` `Docker` `Python` `Scanpy` `Squidpy` `spatial transcriptomics` `machine learning` `data engineering` `bioinformatics pipelines`
 
 <img src="https://private-user-images.githubusercontent.com/132481047/516359547-8d0610f6-c3bf-4a8b-a34e-459b450bcaac.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk4MzAyMjMsIm5iZiI6MTc3OTgyOTkyMywicGF0aCI6Ii8xMzI0ODEwNDcvNTE2MzU5NTQ3LThkMDYxMGY2LWMzYmYtNGE4Yi1hMzRlLTQ1OWI0NTBiY2FhYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNlQyMTEyMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzdiOWVlZTM3ZTE4OGVkYjFmMDZhODczNmQyMGY2ZGJjNjhmMGM0ZTZlMzU0YmRkNzdlMGVhNGJlYzNhODJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Uf31pEQUvZAYnQSL4KeK1DMmorpfOH3iAqUt1UAFDhw" alt="Single-cell RNA-seq benchmarking project preview" width="700"/>
+
+[View Repository](### 1. SpatialAINiche overview
+
+<img src="assets/overview.png" alt="Single-cell RNA-seq benchmarking project preview" width="700"/>
 
 Re-implemented and validated comparative single-cell RNA-seq workflows with an emphasis on reproducibility, modular design, and fair method comparison.
 
@@ -69,6 +85,7 @@ Re-implemented and validated comparative single-cell RNA-seq workflows with an e
 **Tech:** `R` `Python` `single-cell RNA-seq` `benchmarking` `reproducible research`
 
 [View Repository](https://github.com/misaell2/Replicate_of_comparison_of_single_cell_RNA_seq_methods)
+
 
 ---
 
@@ -103,16 +120,20 @@ Built machine learning workflows for biomedical data, including multi-label ECG 
 [View Repository](https://github.com/misaell2/pyhealth_ecg_task_CS_598)
 ---
 
-### 4. Cloud + ML Data Pipelines
+### 4. Single-Cell RNA-seq Benchmarking Replication
 
-Designed cloud-based data and machine learning workflows using AWS services, with emphasis on scalable processing, automation, monitoring, and reproducible deployment.
+<img src="https://private-user-images.githubusercontent.com/132481047/516359547-8d0610f6-c3bf-4a8b-a34e-459b450bcaac.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk4MzAyMjMsIm5iZiI6MTc3OTgyOTkyMywicGF0aCI6Ii8xMzI0ODEwNDcvNTE2MzU5NTQ3LThkMDYxMGY2LWMzYmYtNGE4Yi1hMzRlLTQ1OWI0NTBiY2FhYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUyNlQyMTEyMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzdiOWVlZTM3ZTE4OGVkYjFmMDZhODczNmQyMGY2ZGJjNjhmMGM0ZTZlMzU0YmRkNzdlMGVhNGJlYzNhODJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Uf31pEQUvZAYnQSL4KeK1DMmorpfOH3iAqUt1UAFDhw" alt="Single-cell RNA-seq benchmarking project preview" width="700"/>
+
+Re-implemented and validated comparative single-cell RNA-seq workflows with an emphasis on reproducibility, modular design, and fair method comparison.
 
 **Highlights**
-- Built data pipelines using AWS, Docker, and Python
-- Worked with ML training/evaluation workflows and cloud orchestration
-- Practiced production-oriented design: monitoring, reproducibility, and automation
+- Built modular workflows for comparing analysis methods
+- Focused on reproducibility and validation of published results
+- Connected computational outputs back to biological interpretation
 
-**Tech:** `AWS` `Docker` `Python` `machine learning` `data engineering` `cloud computing`
+**Tech:** `R` `Python` `single-cell RNA-seq` `benchmarking` `reproducible research`
+
+[View Repository](https://github.com/misaell2/Replicate_of_comparison_of_single_cell_RNA_seq_methods)
 
 ---
 
